@@ -51,8 +51,11 @@ Visualization
 Evaluation metrics
 
 🧪 How to Run
-▶️ Run a Notebook
-Open any notebook in Jupyter or Colab and run all cells. They are self-contained and easy to understand.
+To run the repository get Alpaca credentials from Alpaca Trading API and place them in .env file in root directory of project, in the format below :
+
+API_KEY = 'PKSJHASK5764675L8'
+
+SECRET_KEY = 'SXdf4g61sdf5rrgdfrb64df1nfgLeVP'
 
 💼 Start the Trading Bot
 Once you have selected a model, integrate its predictions into the app.py script.
